@@ -1,4 +1,4 @@
-# WDR
+# WDR 
 
 * WDR model has three main blocks: 1) the wide model is similar to the wide model 
 in Wide & Deep network. We use a second order cross-product transformation followed
